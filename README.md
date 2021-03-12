@@ -22,6 +22,8 @@
   Fixed a bug
 - [svelte-jp/svelte-site-jp](https://github.com/svelte-jp/svelte-site-jp) -
   Translated docs into Japanese
+- [vuejs-jp/vite-docs-ja](https://github.com/vuejs-jp/vite-docs-ja) -
+  Translated docs into Japanese
 
 <!--
 **jay-es/jay-es** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
