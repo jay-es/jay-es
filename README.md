@@ -16,7 +16,7 @@
   Translated docs into Japanese
 - [zenn-dev/zenn-docs](https://github.com/zenn-dev/zenn-docs) -
   Fixed a doc
-- [nuxt/nuxtjs.org](https://github.com/nuxt/nuxtjs.org) -
+- [nuxt/nuxtjs.org](https://github.com/nuxt/nuxtjs.org), [ja.nuxtjs.org](https://github.com/vuejs-jp/ja.nuxtjs.org) -
   Translated docs into Japanese
 - [okonet/lint-staged](https://github.com/) -
   Fixed a bug
