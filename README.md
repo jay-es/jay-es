@@ -13,15 +13,15 @@
 - [yohamta/typescript-book-jp](https://github.com/yohamta/typescript-book-jp) -
   Fixed a doc
 - [vuejs-jp/ja.vuejs.org](https://github.com/vuejs-jp/ja.vuejs.org) -
-  Translated docs into Japanese
+  Translated docs into Japanese (2 pages)
 - [zenn-dev/zenn-docs](https://github.com/zenn-dev/zenn-docs) -
   Fixed a doc
 - [nuxt/nuxtjs.org](https://github.com/nuxt/nuxtjs.org), [ja.nuxtjs.org](https://github.com/vuejs-jp/ja.nuxtjs.org) -
-  Translated docs into Japanese
+  Translated docs into Japanese (3 pages)
 - [okonet/lint-staged](https://github.com/) -
   Fixed a bug
 - [svelte-jp/svelte-site-jp](https://github.com/svelte-jp/svelte-site-jp) -
-  Translated docs into Japanese
+  Translated docs into Japanese (~20% of API Docs)
 - [vuejs-jp/vite-docs-ja](https://github.com/vuejs-jp/vite-docs-ja) -
   Translated docs into Japanese
 
