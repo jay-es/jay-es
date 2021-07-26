@@ -22,7 +22,7 @@
   Fixed a bug
 - [svelte-jp/svelte-site-jp](https://github.com/svelte-jp/svelte-site-jp) -
   Translated docs into Japanese (~20% of API Docs)
-- [vuejs-jp/vite-docs-ja](https://github.com/vuejs-jp/vite-docs-ja) -
+- [vitejs/docs-ja](https://github.com/vitejs/docs-ja), [vuejs-jp/vite-docs-ja](https://github.com/vuejs-jp/vite-docs-ja) -
   Translated docs into Japanese
 - [solidjs/solid-docs](https://github.com/solidjs/solid-docs) -
   Translated docs into Japanese (All 1.0.0 docs)
