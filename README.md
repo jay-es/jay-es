@@ -21,10 +21,10 @@
 - [okonet/lint-staged](https://github.com/) -
   Fixed a bug
 - [svelte-jp/svelte-site-jp](https://github.com/svelte-jp/svelte-site-jp) -
-  Translated docs into Japanese (~20% of API Docs)
-- [vitejs/docs-ja](https://github.com/vitejs/docs-ja), [vuejs-jp/vite-docs-ja](https://github.com/vuejs-jp/vite-docs-ja) -
-  Translated docs into Japanese
-- [solidjs/solid-docs](https://github.com/solidjs/solid-docs) -
+  Translated docs into Japanese (~20% of API docs)
+- [vitejs/docs-ja](https://github.com/vitejs/docs-ja) -
+  Translated docs into Japanese (~50% of all)
+- [solidjs/solid-docs](https://github.com/solidjs/solid-docs), [solidjs/solid-site](https://github.com/solidjs/solid-site) -
   Translated docs into Japanese (All 1.0.0 docs)
 
 <!--
