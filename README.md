@@ -25,7 +25,9 @@
 - [vitejs/docs-ja](https://github.com/vitejs/docs-ja) -
   Translated docs into Japanese (~50% of all)
 - [solidjs/solid-docs](https://github.com/solidjs/solid-docs), [solidjs/solid-site](https://github.com/solidjs/solid-site) -
-  Translated docs into Japanese (All 1.0.0 docs)
+  Translated docs into Japanese (All docs for 1.0.0)
+- [solidjs/solid-styled-components](https://github.com/solidjs/solid-styled-components) -
+  Improved type definitions
 
 <!--
 **jay-es/jay-es** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
