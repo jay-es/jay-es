@@ -13,7 +13,7 @@
 - [yohamta/typescript-book-jp](https://github.com/yohamta/typescript-book-jp) -
   Fixed a doc
 - [vuejs-jp/ja.vuejs.org](https://github.com/vuejs-jp/ja.vuejs.org) -
-  Translated docs into Japanese (2 pages)
+  Translated docs into Japanese (5 pages)
 - [zenn-dev/zenn-docs](https://github.com/zenn-dev/zenn-docs) -
   Fixed a doc
 - [nuxt/nuxtjs.org](https://github.com/nuxt/nuxtjs.org), [ja.nuxtjs.org](https://github.com/vuejs-jp/ja.nuxtjs.org) -
