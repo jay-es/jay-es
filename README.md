@@ -18,7 +18,7 @@
   Fixed a doc
 - [nuxt/nuxtjs.org](https://github.com/nuxt/nuxtjs.org), [ja.nuxtjs.org](https://github.com/vuejs-jp/ja.nuxtjs.org) -
   Translated docs into Japanese (3 pages)
-- [okonet/lint-staged](https://github.com/) -
+- [okonet/lint-staged](https://github.com/okonet/lint-staged) -
   Fixed a bug
 - [svelte-jp/svelte-site-jp](https://github.com/svelte-jp/svelte-site-jp) -
   Translated docs into Japanese (~20% of API docs)
