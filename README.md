@@ -23,11 +23,13 @@
 - [svelte-jp/svelte-site-jp](https://github.com/svelte-jp/svelte-site-jp) -
   Translated docs into Japanese (~20% of API docs)
 - [vitejs/docs-ja](https://github.com/vitejs/docs-ja) -
-  Translated docs into Japanese (~50% of all)
+  Translated docs into Japanese (~50% of all, as a maintainer)
 - [solidjs/solid-docs](https://github.com/solidjs/solid-docs), [solidjs/solid-site](https://github.com/solidjs/solid-site) -
   Translated docs into Japanese (All docs for 1.0.0)
 - [solidjs/solid-styled-components](https://github.com/solidjs/solid-styled-components) -
   Improved type definitions
+- [vuejs-translations/docs-ja](https://github.com/vuejs-translations/docs-ja) -
+  Translated docs into Japanese (as a maintainer)
 
 <!--
 **jay-es/jay-es** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
