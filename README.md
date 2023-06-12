@@ -30,6 +30,7 @@
   Improved type definitions
 - [vuejs-translations/docs-ja](https://github.com/vuejs-translations/docs-ja) -
   Translated docs into Japanese (as a maintainer)
+- [vuejs/v3-migration-guide](https://github.com/vuejs/v3-migration-guide) - Translated docs into Japanese (All Japanese pages)
 
 <!--
 **jay-es/jay-es** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
